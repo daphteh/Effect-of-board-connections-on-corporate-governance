@@ -16,7 +16,7 @@ The code here is useful for working with time series data and visualizing the ef
 # The Data and Context
 
 The data in this repo is proprietary and pertains to Fortune 500 firms from 1998 till 2014. The analysis is conducted on 12,436 observations and an average of 731 firms for each calendar year. 
-<img width="1274" alt="Baseline Independent Variable" src="https://github.com/daphteh/Effect-of-board-connections-on-corporate-governance/blob/6261e1addf351e3621f077206a83cae1f9b0b363/Reports/cnbi_over_time.png">
+<img width="1274" alt="Baseline Independent Variable" src="https://github.com/daphteh/Effect-of-board-connections-on-corporate-governance/blob/6ba5af086673114336af759bcd180d45db5f5ec0/Reports/cnbi_over_time.png">
 
 <details>
 <summary> Data sources </summary>
