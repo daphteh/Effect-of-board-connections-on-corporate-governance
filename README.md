@@ -4,7 +4,7 @@ In this repo, I examined how board connections between corporations and nonprofi
 ### Methods Used ###
 * Exploratory Data Analytics
 * Statistics: Ordinary least squares regression with firm-level fixed effects and standard error clustering
-* Data visualization (results)
+* Data visualization (data and results)
 
 ### Tools ###
 * Linear models
