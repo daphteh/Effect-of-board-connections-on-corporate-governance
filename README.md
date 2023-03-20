@@ -75,3 +75,6 @@ The data in this repo is proprietary and pertains to Fortune 500 firms from 1998
 <details>
 <summary> Step 3: Visualize your coefficients </summary>
 </details>
+
+
+<img width="1274" alt="Effects on DV" src="https://github.com/daphteh/Effect-of-board-connections-on-corporate-governance/blob/ea8b06fcb4683f579923f1ae3461ac8fc7601e7b/Reports/coefficients_from_regression.png">
