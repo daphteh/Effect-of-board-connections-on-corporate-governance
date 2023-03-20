@@ -52,6 +52,14 @@ The data in this repo is proprietary and pertains to Fortune 500 firms from 1998
 <p>- Recidivism (the extent to which the firm engaged in potential deviance in the past) </p>
 </details>
 
+<details>
+<summary>  Exploratory Data Analysis and Visualizations </summary>
+<br>
+<p>- Summary statistics </p>
+<p>- Correlation table heatmap </p>
+<p>- Barplots for coefficients </p>
+</details>
+
 # Methodology
 
 <details>
