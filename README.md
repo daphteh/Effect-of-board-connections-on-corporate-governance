@@ -84,5 +84,6 @@ The data in this repo is proprietary and pertains to Fortune 500 firms from 1998
 <summary> Step 3: Visualize your coefficients </summary>
 </details>
 
-
 <img width="1274" alt="Effects on DV" src="https://github.com/daphteh/Effect-of-board-connections-on-corporate-governance/blob/ea8b06fcb4683f579923f1ae3461ac8fc7601e7b/Reports/coefficients_from_regression.png">
+
+Note that these coefficients relate to corporate-nonprofit board interlocks (CNBI) at large, constituted by the CEO or the Chairman, or with social welfare (SW) oriented nonprofits.
